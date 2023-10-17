@@ -1,0 +1,16 @@
+.getTodo-container{
+    text-align: center;
+    margin: 10px;
+}
+.tab-btn{
+    border: none;
+    background-color: transparent;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(183, 181, 181);
+    cursor: pointer;
+}
+.tab-btn.active {
+    color: #007bff;
+    text-decoration: underline;
+  }
